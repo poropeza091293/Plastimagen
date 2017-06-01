@@ -105,7 +105,7 @@ public class nav : MonoBehaviour {
 
 	public void AbrirRegistro()
 	{
-		Application.ExternalEval("window.open(\"http://acob.guru/Pangea/regstart.aspx?cuip=4-5222226&md=1&lan=SP&acuni=222222\",\"_blank\")");
+		Application.ExternalEval("window.open(\"http://www.plastimagen.com.mx/2017/es/registro\",\"_blank\")");
 	}
 
 }
