@@ -47,7 +47,7 @@ public class StreamVideo : MonoBehaviour {
 
 		//We want to play from video clip not from url
 
-		//videoPlayer.source = VideoSource.VideoClip;
+		videoPlayer.source = VideoSource.VideoClip;
 
 		// Vide clip from Url
 		videoPlayer.source = VideoSource.Url;

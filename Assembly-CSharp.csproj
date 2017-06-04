@@ -78,7 +78,6 @@
      <Compile Include="Assets\GifDecoder\GifImageDescriptor.cs" />
      <Compile Include="Assets\GifDecoder\GifParserScript.cs" />
      <Compile Include="Assets\StreamVideo.cs" />
-     <Compile Include="Assets\StreamVideo4.cs" />
      <Compile Include="Assets\nav.cs" />
      <None Include="Assets\FacebookSDK\link.xml" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
