@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 495}
   m_MaxSize: {x: 12008, y: 14045}
   vertical: 1
-  controlID: 31563
+  controlID: 17339
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 224}
   m_MaxSize: {x: 12008, y: 4024}
   vertical: 0
-  controlID: 31564
+  controlID: 17340
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -342,9 +342,9 @@ MonoBehaviour:
     height: 344
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 2addfeffb602ffff7e41ffffe669ffff60caffffbedbffff12efffffd0fbffff00000000ce280000
+    m_SelectedIDs: 4a670000
+    m_LastClickedID: 26442
+    m_ExpandedIDs: 02d7feffe6ddfefff0ddfeff38dffeff56e5feff60e5feffb0e6feff92f5feff9cf5fefff0f6feffb4fcfeffbefcfeff0cfefeffbc09ffffc609ffff940affff361cffff401cffffc21dffffb28bffff1e90ffff6ecfffffb0cfffffb8cfffff4ad0ffff5cd2ffff00e5ffff0ae6ffff02f6ffff14f8ffffd0fbffff00000000ce280000be290000002a0000362c0000623200008039000088390000ca390000d83900008c3b0000ec3b0000f63b0000063c0000225a0000fc5c0000d65e0000c6600000de6300007e65000060670000ae670000b867000000680000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -399,9 +399,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 471.69122, y: 133.68848, z: 0}
+    m_Target: {x: 422.26367, y: 201.69661, z: 0}
     speed: 2
-    m_Value: {x: 471.69122, y: 133.68848, z: 0}
+    m_Value: {x: 422.26367, y: 201.69661, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -428,9 +428,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 621.2314
+    m_Target: 345.66742
     speed: 2
-    m_Value: 621.2314
+    m_Value: 345.66742
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -467,7 +467,7 @@ MonoBehaviour:
     y: 91
     width: 296
     height: 344
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 360}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: -244
@@ -542,19 +542,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/sprites/procesos/1 extrusion
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/sprites/procesos/1 extrusion
+  - Assets
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\Peter Oropeza\Desktop\New Unity Project
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 391}
-    m_SelectedIDs: ae260000
-    m_LastClickedID: 9902
-    m_ExpandedIDs: 00000000ae250000942600008a27000090270000e8270000f82700000c2800004828000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 95}
+    m_SelectedIDs: ae250000
+    m_LastClickedID: 9646
+    m_ExpandedIDs: 00000000ae250000942600008a27000090270000e8270000f82700000c28000048280000a8290000aa29000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -582,7 +582,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ae250000942600008a27000090270000e8270000f82700000c2800004828000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000ae250000942600008a27000090270000e8270000f82700000c28000048280000a8290000aa29000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -609,7 +609,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 38030900e42400004a480000de39f8ffaa28f7ffd060ffffca300000ec24000022460000484e040070460000284800009a2c0000ee7ff9ff0402f8ff002500000a25000000000000162a0000ee5000004a470000824a00007243000096280000d64c000012250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -634,7 +634,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 183}
     m_GridSize: 96
   m_DirectoriesAreaWidth: 110
 --- !u!114 &17

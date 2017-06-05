@@ -78,6 +78,14 @@
      <Compile Include="Assets\GifDecoder\GifImageDescriptor.cs" />
      <Compile Include="Assets\GifDecoder\GifParserScript.cs" />
      <Compile Include="Assets\StreamVideo.cs" />
+     <Compile Include="Assets\UniGif\Example\Script\UniGifImage.cs" />
+     <Compile Include="Assets\UniGif\Example\Script\UniGifTest.cs" />
+     <Compile Include="Assets\UniGif\Example\Script\Utility\UniGifImageAspectController.cs" />
+     <Compile Include="Assets\UniGif\UniGif.cs" />
+     <Compile Include="Assets\UniGif\UniGifConst.cs" />
+     <Compile Include="Assets\UniGif\UniGifDecoder.cs" />
+     <Compile Include="Assets\UniGif\UniGifExtension.cs" />
+     <Compile Include="Assets\UniGif\UniGifFormatter.cs" />
      <Compile Include="Assets\nav.cs" />
      <None Include="Assets\FacebookSDK\link.xml" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
