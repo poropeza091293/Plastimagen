@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/soplado.unity
+- path: Assets/rotomoldeo.unity
   isLoaded: 1
   isActive: 1
