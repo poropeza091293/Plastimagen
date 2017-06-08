@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/rotomoldeo.unity
+- path: Assets/com_d.unity
   isLoaded: 1
   isActive: 1
