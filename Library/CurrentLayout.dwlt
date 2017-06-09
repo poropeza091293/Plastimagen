@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 495}
   m_MaxSize: {x: 12008, y: 14045}
   vertical: 1
-  controlID: 4508
+  controlID: 2168
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 224}
   m_MaxSize: {x: 12008, y: 4024}
   vertical: 0
-  controlID: 4509
+  controlID: 2169
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,7 +344,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 829ffffff8a9ffffb8b4ffff48bdffffc8c7ffff24cbffff78ccffffc6d7ffffc4f9ffff72faffffd0fbffff00000000622a0000802c0000d82d0000882e0000322f00002630000008310000b83200000a340000
+    m_ExpandedIDs: 48e0ffffb0e2ffff48e3fffff2e9ffff42ecffff16eeffffc0eeffffbaf0ffffc0f2ffff62f3ffff80f5ffff28f6ffffccf6ffff12f9ffffd0fbffff00000000fe2800003e2a00004e2c0000e62d0000f82e00005a30000014310000f6370000443800004e38000096380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -363,7 +363,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 7}
     m_SearchString: 
   m_ExpandedScenes:
-  - com_d
+  - soplado
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -428,9 +428,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 1438.3993
+    m_Target: 2886.6663
     speed: 2
-    m_Value: 1438.3993
+    m_Value: 2886.6663
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -634,7 +634,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 183}
     m_GridSize: 96
   m_DirectoriesAreaWidth: 110
 --- !u!114 &17
