@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 545}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 686
-  m_MinSize: {x: 950, y: 545}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -106,10 +106,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 636
-  m_MinSize: {x: 683, y: 495}
-  m_MaxSize: {x: 12008, y: 14045}
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 12008, y: 14042}
   vertical: 1
-  controlID: 2168
+  controlID: 9
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -131,10 +131,10 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 365
-  m_MinSize: {x: 683, y: 224}
-  m_MaxSize: {x: 12008, y: 4024}
+  m_MinSize: {x: 683, y: 221}
+  m_MaxSize: {x: 12008, y: 4021}
   vertical: 0
-  controlID: 2169
+  controlID: 10
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -153,8 +153,8 @@ MonoBehaviour:
     y: 0
     width: 202
     height: 365
-  m_MinSize: {x: 202, y: 224}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -204,8 +204,8 @@ MonoBehaviour:
     y: 0
     width: 298
     height: 365
-  m_MinSize: {x: 277, y: 74}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -292,25 +292,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 1366
-      height: 598
-    m_Scale: {x: 0.41527778, y: 0.41527778}
-    m_Translation: {x: 683, y: 299}
+      width: 862
+      height: 327
+    m_Scale: {x: 0.22708334, y: 0.22708334}
+    m_Translation: {x: 431, y: 163.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1644.6823
+      x: -1897.9816
       y: -720
-      width: 3289.3645
+      width: 3795.9631
       height: 1440
     m_MinimalGUI: 1
-  m_defaultScale: 0.41527778
+  m_defaultScale: 0.22708334
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1366, y: 615}
+  m_LastWindowPixelSize: {x: 862, y: 344}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -344,7 +344,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 48e0ffffb0e2ffff48e3fffff2e9ffff42ecffff16eeffffc0eeffffbaf0ffffc0f2ffff62f3ffff80f5ffff28f6ffffccf6ffff12f9ffffd0fbffff00000000fe2800003e2a00004e2c0000e62d0000f82e00005a30000014310000f6370000443800004e38000096380000
+    m_ExpandedIDs: d0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -363,7 +363,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 7}
     m_SearchString: 
   m_ExpandedScenes:
-  - soplado
+  - ex_d
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -428,9 +428,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2886.6663
+    m_Target: 938.16656
     speed: 2
-    m_Value: 2886.6663
+    m_Value: 938.16656
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -582,7 +582,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000be250000ae260000f42600001e270000aa270000b0270000082800001a280000302800007028000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000be250000ae260000f42600001e270000aa270000b0270000082800001a2800003028000070280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -634,7 +634,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 183}
+    m_ScrollPosition: {x: 0, y: 121}
     m_GridSize: 96
   m_DirectoriesAreaWidth: 110
 --- !u!114 &17
